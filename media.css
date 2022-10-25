@@ -1,0 +1,164 @@
+/* xs */
+@media screen and (min-width:0px) and (max-width:600px) {
+   
+    .container-info{
+        width: 100%;
+    }
+
+    /* services */
+    .services-item {
+        width: 100%;
+    }
+
+    /* pprtfolio */
+    .portfolio-item {
+
+        width: 100%;
+    }
+
+    /* icons */
+    .icon-item {
+
+        width: 100%;
+    }
+
+    /* feedback */
+    .feedback-item {
+        width: 90%;
+    }
+
+    .empty-div {
+        width: 90%;
+        height: 70%;
+    }
+
+    .feedback-item-text {
+        width: 70%;
+
+    }
+
+    /* blog */
+    .blog-item {
+        width: 100%;
+    }
+
+}
+
+/* sm  */
+@media screen and (min-width:601px) and (max-width:767px) {
+
+    .container-info{
+        width: 100%;
+    }
+
+    /* services */
+    .services-item {
+        width: 100%;
+    }
+
+    /* pprtfolio */
+    .portfolio-item {
+
+        width: 100%;
+    }
+
+    /* icons */
+    .icon-item {
+
+        width: 100%;
+    }
+
+
+    /* feedback */
+    .feedback-item {
+        width: 60%;
+        margin-bottom: 20px;
+    }
+
+    .empty-div {
+        width: 70%;
+        height: 100%;
+    }
+
+    /* blog */
+    .blog-item {
+        width: 100%;
+    }
+
+}
+
+/* medium  */
+@media screen and (min-width:767px) and (max-width:991px) {
+
+    /* services */
+    .services-item {
+        width: 50%;
+    }
+
+    /* p0rtfolio */
+    .portfolio-item {
+
+        width: 50%;
+    }
+
+    /* icons */
+    .icon-item {
+
+        width: 50%;
+    }
+
+    /* feedback */
+    .feedback-item {
+        width: 78%;
+    }
+
+    .empty-div {
+        width: 75%;
+        height: 50%
+    }
+
+    /* blog */
+    .blog-item {
+        width: 50%;
+    }
+
+
+}
+
+/* large  */
+@media screen and (min-width:992px) and (max-width:1200px) {
+
+    /* services */
+    .services-item {
+        width: 50%;
+    }
+
+    /* icons */
+    .icon-item {
+
+        width: 25%;
+    }
+
+    /* feedback */
+    .feedback-item {
+        width: 78%;
+    }
+
+    .empty-div {
+        width: 75%;
+        height: 50%
+    }
+
+
+
+
+    /* blog */
+    .blog-item {
+        width: 50%;
+    }
+
+
+}
+
+/* xlarge  */
+@media screen and (min-width:1201px) {}
